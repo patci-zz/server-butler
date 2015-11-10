@@ -6,6 +6,7 @@ Server Butler is a picky, opinionated web framework that only handles GET reques
 
 # To use
 
+<<<<<<< HEAD
 Install with the command `npm install server-butler`
 <p> Pull into your server.js file with `var butler = require('server-butler').
 <p> Also require http to setup your server
@@ -20,3 +21,7 @@ Install with the command `npm install server-butler`
 })`
 <p> and listen on your favorite port.  Now when you open a browser and call a registered route, you'll see the specified content!
 
+=======
+install with the command `npm install server-butler`
+<p> and pull into your server.js file with `require('server-butler');`
+>>>>>>> upstream/master

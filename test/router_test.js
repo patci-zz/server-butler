@@ -14,9 +14,9 @@ describe('The router', function() {
   });
 
   before(function() {
-    this.router.retrieve(this.req, this.res);
+    this.data = this.router.retrieve(this.req, this.res);
   });
   it('shoud retrieve a route', function() {
-    expect(this.res.write).to.eql('hello world');
+    expect(this.data).to.eql('hello world');
   });
 });
