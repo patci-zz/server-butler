@@ -13,10 +13,12 @@ describe('The router', function() {
     expect(this.router.routes['GET']['/']['/hello']['/world'].content).to.eql('hello world');
   });
 
-  before(function() {
+  /* before(function() {
     this.router.retrieve(this.req, this.res);
   });
   it('shoud retrieve a route', function() {
     expect(this.res.write).to.eql('hello world');
   });
 });
+
+*/
