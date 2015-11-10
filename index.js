@@ -6,5 +6,5 @@
 
 'use strict';
 
-module.exports = require('./lib/server-butler');
+module.exports = require('./lib/router');
 
