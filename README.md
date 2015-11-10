@@ -16,7 +16,7 @@ Install with the command `npm install server-butler`
 <p>
 <p> Once your routes are established, use:</p>
  `http.createServer(function(req, res) { </p>
-    butler.retrieve(req, res);</p>
+  butler.retrieve(req, res);
 })`</p>
 <p> and listen on your favorite port.  Now when you open a browser and call a registered route, you'll see the specified content!
 
