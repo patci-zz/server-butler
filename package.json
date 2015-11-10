@@ -1,6 +1,6 @@
 {
   "name": "server-butler",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "A picky, opinionated server framework",
   "main": "index.js",
   "scripts": {
