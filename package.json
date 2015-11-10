@@ -1,7 +1,7 @@
 {
   "name": "server-butler",
   "version": "0.1.1",
-  "description": "An HTTP server helper",
+  "description": "A picky, opinionated server framework",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha test"
