@@ -23,7 +23,7 @@ content = either a string ie 'hello world' or a filename relative to ../public
 
 <p> Once your routes are established, use:</p>
 <p>`http.createServer(function(req, res) {`</p>
-<p>`butler.retrieve(req, res);`</p>
+  <p>`butler.retrieve(req, res);`</p>
 <p>`});`</p>
 <p> and listen on your favorite port.  Now when you open a browser and call a registered route, you'll see the specified content!
 
