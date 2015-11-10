@@ -1,5 +1,5 @@
 # Server Butler
-https://travis-ci.org/patci/server-butler.svg?branch=master
+<a href="https://travis-ci.org/patci/server-butler"><img src="https://travis-ci.org/patci/server-butler.svg?branch=master"></a>
 
 Server Butler is a picky, opinionated web framework that only handles GET requests*
 <p>*It also handles files.</p>
