@@ -7,7 +7,7 @@ Server Butler is a picky, opinionated web framework that only handles GET reques
 # To use
 
 Install with the command `npm install server-butler`
-\n
+<br>
 Pull into your server.js file with `var butler = require('server-butler')`
 <p>
 Also `require ('http')` to setup your server
