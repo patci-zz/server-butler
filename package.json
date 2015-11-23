@@ -10,7 +10,17 @@
     "type": "git",
     "url": "git+https://github.com/patci/server-Butler.git"
   },
-  "author": "",
+  "contributors": {
+    "Jordan Bundy": {
+      "email": "jordanbundy@gmail.com"
+    },
+    "Daniel Lombardy": {
+      "email": "lombardy.dan@gmail.com"
+    },
+    "Rick Patci": {
+      "email": "rpatci@gmail.com"
+    }
+  }
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/patci/server-Butler/issues"
